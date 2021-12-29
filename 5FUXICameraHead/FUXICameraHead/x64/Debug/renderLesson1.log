@@ -1,0 +1,44 @@
+﻿  main.cpp
+F:\Render\5FUXICameraHead\renderLesson1\main.cpp(95,20): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\Render\5FUXICameraHead\renderLesson1\main.cpp(96,21): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\Render\5FUXICameraHead\renderLesson1\main.cpp(127,26): warning C4244: '*=': conversion from 'float' to 'unsigned char', possible loss of data
+F:\Render\5FUXICameraHead\renderLesson1\main.cpp(128,26): warning C4244: '*=': conversion from 'float' to 'unsigned char', possible loss of data
+F:\Render\5FUXICameraHead\renderLesson1\main.cpp(129,26): warning C4244: '*=': conversion from 'float' to 'unsigned char', possible loss of data
+F:\Render\5FUXICameraHead\renderLesson1\main.cpp(131,21): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Render\5FUXICameraHead\renderLesson1\main.cpp(131,16): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Render\5FUXICameraHead\renderLesson1\main.cpp(138,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Render\5FUXICameraHead\renderLesson1\main.cpp(138,18): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Render\5FUXICameraHead\renderLesson1\main.cpp(202,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  renderLesson1.vcxproj -> F:\Render\5FUXICameraHead\x64\Debug\renderLesson1.exe
