@@ -1,0 +1,73 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(renderLesson1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+F:\202110\Render\2BackFaceCullingDog\BackFaceCullingDog\main.cpp(19,77): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+F:\202110\Render\2BackFaceCullingDog\BackFaceCullingDog\main.cpp(19,56): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+F:\202110\Render\2BackFaceCullingDog\BackFaceCullingDog\main.cpp(19,35): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+F:\202110\Render\2BackFaceCullingDog\BackFaceCullingDog\main.cpp(19,142): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+F:\202110\Render\2BackFaceCullingDog\BackFaceCullingDog\main.cpp(19,121): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+F:\202110\Render\2BackFaceCullingDog\BackFaceCullingDog\main.cpp(19,100): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+F:\202110\Render\2BackFaceCullingDog\BackFaceCullingDog\main.cpp(76,78): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+F:\202110\Render\2BackFaceCullingDog\BackFaceCullingDog\main.cpp(76,49): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+F:\202110\Render\2BackFaceCullingDog\BackFaceCullingDog\main.cpp(86,88): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+F:\202110\Render\2BackFaceCullingDog\BackFaceCullingDog\main.cpp(86,71): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+F:\202110\Render\2BackFaceCullingDog\BackFaceCullingDog\main.cpp(86,54): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+  model.cpp
+  tgaimage.cpp
+  正在生成代码...
+  BackFaceCullingDog.vcxproj -> F:\202110\Render\2BackFaceCullingDog\x64\Debug\BackFaceCullingDog.exe

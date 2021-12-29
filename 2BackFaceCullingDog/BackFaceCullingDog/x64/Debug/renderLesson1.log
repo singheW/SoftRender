@@ -1,0 +1,69 @@
+﻿  main.cpp
+F:\Render\renderLesson2\renderLesson1\renderLesson1\main.cpp(19,77): warning C4244: 'argument': conversion from 't' to 't', possible loss of data
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+F:\Render\renderLesson2\renderLesson1\renderLesson1\main.cpp(19,56): warning C4244: 'argument': conversion from 't' to 't', possible loss of data
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+F:\Render\renderLesson2\renderLesson1\renderLesson1\main.cpp(19,35): warning C4244: 'argument': conversion from 't' to 't', possible loss of data
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+F:\Render\renderLesson2\renderLesson1\renderLesson1\main.cpp(19,142): warning C4244: 'argument': conversion from 't' to 't', possible loss of data
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+F:\Render\renderLesson2\renderLesson1\renderLesson1\main.cpp(19,121): warning C4244: 'argument': conversion from 't' to 't', possible loss of data
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+F:\Render\renderLesson2\renderLesson1\renderLesson1\main.cpp(19,100): warning C4244: 'argument': conversion from 't' to 't', possible loss of data
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+F:\Render\renderLesson2\renderLesson1\renderLesson1\main.cpp(76,78): warning C4244: 'argument': conversion from 'double' to 't', possible loss of data
+          with
+          [
+              t=int
+          ]
+F:\Render\renderLesson2\renderLesson1\renderLesson1\main.cpp(76,49): warning C4244: 'argument': conversion from 'double' to 't', possible loss of data
+          with
+          [
+              t=int
+          ]
+F:\Render\renderLesson2\renderLesson1\renderLesson1\main.cpp(86,88): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+F:\Render\renderLesson2\renderLesson1\renderLesson1\main.cpp(86,71): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+F:\Render\renderLesson2\renderLesson1\renderLesson1\main.cpp(86,54): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+  renderLesson1.vcxproj -> F:\Render\renderLesson2\renderLesson1\x64\Debug\renderLesson1.exe
