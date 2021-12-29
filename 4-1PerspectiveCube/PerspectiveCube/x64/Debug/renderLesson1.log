@@ -1,0 +1,10 @@
+﻿  main.cpp
+F:\Render\Perspective4Head\renderLesson1\main.cpp(33,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Render\Perspective4Head\renderLesson1\main.cpp(139,36): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Render\Perspective4Head\renderLesson1\main.cpp(157,34): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Render\Perspective4Head\renderLesson1\main.cpp(165,30): warning C4305: '=': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+  renderLesson1.vcxproj -> F:\Render\Perspective4Head\x64\Debug\renderLesson1.exe
