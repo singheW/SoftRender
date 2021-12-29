@@ -1,0 +1,44 @@
+﻿  main.cpp
+F:\Render\perspective4Head\renderLesson1\main.cpp(70,20): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\Render\perspective4Head\renderLesson1\main.cpp(71,21): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\Render\perspective4Head\renderLesson1\main.cpp(82,21): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Render\perspective4Head\renderLesson1\main.cpp(82,16): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Render\perspective4Head\renderLesson1\main.cpp(89,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Render\perspective4Head\renderLesson1\main.cpp(89,18): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Render\perspective4Head\renderLesson1\main.cpp(131,86): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+F:\Render\perspective4Head\renderLesson1\main.cpp(131,69): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+F:\Render\perspective4Head\renderLesson1\main.cpp(131,52): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+F:\Render\perspective4Head\renderLesson1\main.cpp(140,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  renderLesson1.vcxproj -> F:\Render\perspective4Head\x64\Debug\renderLesson1.exe
