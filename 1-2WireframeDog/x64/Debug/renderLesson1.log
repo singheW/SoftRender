@@ -1,0 +1,7 @@
+﻿  main.cpp
+F:\Render\renderLesson1-xiankuangxuanran\renderLesson1\renderLesson1\main.cpp(27,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Render\renderLesson1-xiankuangxuanran\renderLesson1\renderLesson1\main.cpp(50,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Render\renderLesson1-xiankuangxuanran\renderLesson1\renderLesson1\main.cpp(51,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Render\renderLesson1-xiankuangxuanran\renderLesson1\renderLesson1\main.cpp(52,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Render\renderLesson1-xiankuangxuanran\renderLesson1\renderLesson1\main.cpp(53,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  renderLesson1.vcxproj -> F:\Render\renderLesson1-xiankuangxuanran\renderLesson1\x64\Debug\renderLesson1.exe

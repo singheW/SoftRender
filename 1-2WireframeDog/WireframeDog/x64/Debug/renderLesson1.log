@@ -1,0 +1,10 @@
+﻿  main.cpp
+F:\Render\WireframeDog\renderLesson1\main.cpp(27,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Render\WireframeDog\renderLesson1\main.cpp(50,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Render\WireframeDog\renderLesson1\main.cpp(51,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Render\WireframeDog\renderLesson1\main.cpp(52,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Render\WireframeDog\renderLesson1\main.cpp(53,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  model.cpp
+  tgaimage.cpp
+  Generating Code...
+  renderLesson1.vcxproj -> F:\Render\WireframeDog\x64\Debug\renderLesson1.exe
