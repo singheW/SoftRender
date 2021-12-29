@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(renderLesson1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+F:\202110\Render\1BresenhamsLine\BresenhamsLine\main.cpp(25,16): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  tgaimage.cpp
+  正在生成代码...
+  BresenhamsLine.vcxproj -> F:\202110\Render\1BresenhamsLine\x64\Debug\BresenhamsLine.exe

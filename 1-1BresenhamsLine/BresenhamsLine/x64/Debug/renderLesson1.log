@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\Render\BresenhamsLine1\renderLesson1\main.cpp(25,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  renderLesson1.vcxproj -> F:\Render\BresenhamsLine1\x64\Debug\renderLesson1.exe
