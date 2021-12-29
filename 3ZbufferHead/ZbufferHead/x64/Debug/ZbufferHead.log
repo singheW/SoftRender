@@ -1,0 +1,37 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(renderLesson1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+F:\202110\Render\3ZbufferHead\ZbufferHead\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+F:\202110\Render\3ZbufferHead\ZbufferHead\main.cpp(42,56): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+F:\202110\Render\3ZbufferHead\ZbufferHead\main.cpp(42,32): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+F:\202110\Render\3ZbufferHead\ZbufferHead\main.cpp(58,25): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+F:\202110\Render\3ZbufferHead\ZbufferHead\main.cpp(58,20): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+F:\202110\Render\3ZbufferHead\ZbufferHead\main.cpp(65,53): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+F:\202110\Render\3ZbufferHead\ZbufferHead\main.cpp(65,18): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+F:\202110\Render\3ZbufferHead\ZbufferHead\main.cpp(94,86): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+F:\202110\Render\3ZbufferHead\ZbufferHead\main.cpp(94,69): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+F:\202110\Render\3ZbufferHead\ZbufferHead\main.cpp(94,52): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+  ZbufferHead.vcxproj -> F:\202110\Render\3ZbufferHead\x64\Debug\ZbufferHead.exe

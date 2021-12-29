@@ -1,0 +1,36 @@
+﻿  main.cpp
+F:\Render\renderLesson0\renderLesson1\renderLesson1\tgaimage.h(58,59): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+F:\Render\renderLesson0\renderLesson1\renderLesson1\main.cpp(42,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Render\renderLesson0\renderLesson1\renderLesson1\main.cpp(42,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Render\renderLesson0\renderLesson1\renderLesson1\main.cpp(58,21): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Render\renderLesson0\renderLesson1\renderLesson1\main.cpp(58,16): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Render\renderLesson0\renderLesson1\renderLesson1\main.cpp(65,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Render\renderLesson0\renderLesson1\renderLesson1\main.cpp(65,18): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Render\renderLesson0\renderLesson1\renderLesson1\main.cpp(94,86): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+F:\Render\renderLesson0\renderLesson1\renderLesson1\main.cpp(94,69): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+F:\Render\renderLesson0\renderLesson1\renderLesson1\main.cpp(94,52): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+  renderLesson1.vcxproj -> F:\Render\renderLesson0\renderLesson1\x64\Debug\renderLesson1.exe

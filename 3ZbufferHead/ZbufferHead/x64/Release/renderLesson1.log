@@ -1,0 +1,66 @@
+﻿  main.cpp
+F:\Render\renderLesson0\renderLesson1\renderLesson1\main.cpp(20,53): warning C4244: 'argument': conversion from 'int' to 't', possible loss of data
+          with
+          [
+              t=float
+          ]
+F:\Render\renderLesson0\renderLesson1\renderLesson1\main.cpp(20,18): warning C4244: 'argument': conversion from 'int' to 't', possible loss of data
+          with
+          [
+              t=float
+          ]
+F:\Render\renderLesson0\renderLesson1\renderLesson1\main.cpp(78,19): warning C4244: '=': conversion from 'double' to 't', possible loss of data
+          with
+          [
+              t=int
+          ]
+F:\Render\renderLesson0\renderLesson1\renderLesson1\main.cpp(79,19): warning C4244: '=': conversion from 'double' to 't', possible loss of data
+          with
+          [
+              t=int
+          ]
+F:\Render\renderLesson0\renderLesson1\renderLesson1\main.cpp(80,19): warning C4244: '=': conversion from 'double' to 't', possible loss of data
+          with
+          [
+              t=int
+          ]
+F:\Render\renderLesson0\renderLesson1\renderLesson1\main.cpp(81,19): warning C4244: '=': conversion from 'double' to 't', possible loss of data
+          with
+          [
+              t=int
+          ]
+F:\Render\renderLesson0\renderLesson1\renderLesson1\main.cpp(84,20): warning C4244: '=': conversion from 't' to 't', possible loss of data
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+F:\Render\renderLesson0\renderLesson1\renderLesson1\main.cpp(85,21): warning C4244: '=': conversion from 't' to 't', possible loss of data
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+F:\Render\renderLesson0\renderLesson1\renderLesson1\main.cpp(92,21): warning C4244: 'argument': conversion from 't' to 'int', possible loss of data
+          with
+          [
+              t=float
+          ]
+F:\Render\renderLesson0\renderLesson1\renderLesson1\main.cpp(92,16): warning C4244: 'argument': conversion from 't' to 'int', possible loss of data
+          with
+          [
+              t=float
+          ]
+  model.cpp
+  tgaimage.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 390 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  renderLesson1.vcxproj -> F:\Render\renderLesson0\renderLesson1\x64\Release\renderLesson1.exe
