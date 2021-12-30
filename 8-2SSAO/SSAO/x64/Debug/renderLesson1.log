@@ -1,0 +1,24 @@
+﻿  main.cpp
+F:\202110\Render\8-2SSAO\renderLesson1\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+F:\202110\Render\8-2SSAO\renderLesson1\main.cpp(15,28): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+F:\202110\Render\8-2SSAO\renderLesson1\main.cpp(76,56): warning C4305: “+=”: 从“double”到“float”截断
+F:\202110\Render\8-2SSAO\renderLesson1\main.cpp(77,63): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+F:\202110\Render\8-2SSAO\renderLesson1\main.cpp(77,60): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+F:\202110\Render\8-2SSAO\renderLesson1\main.cpp(77,89): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+F:\202110\Render\8-2SSAO\renderLesson1\main.cpp(79,27): warning C4305: “/=”: 从“double”到“float”截断
+F:\202110\Render\8-2SSAO\renderLesson1\main.cpp(81,61): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+F:\202110\Render\8-2SSAO\renderLesson1\main.cpp(81,48): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+F:\202110\Render\8-2SSAO\renderLesson1\main.cpp(81,35): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+  renderLesson1.vcxproj -> F:\202110\Render\8-2SSAO\x64\Debug\renderLesson1.exe
