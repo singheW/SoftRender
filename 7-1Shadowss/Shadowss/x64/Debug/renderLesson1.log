@@ -1,0 +1,14 @@
+﻿  main.cpp
+F:\Render\7Shadowss\renderLesson1\tgaimage.h(60,54): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+F:\Render\7Shadowss\renderLesson1\main.cpp(46,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Render\7Shadowss\renderLesson1\main.cpp(62,61): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+F:\Render\7Shadowss\renderLesson1\main.cpp(62,57): warning C4244: '=': conversion from 'const _Ty' to 'unsigned char', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  renderLesson1.vcxproj -> F:\Render\7Shadowss\x64\Debug\renderLesson1.exe
