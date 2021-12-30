@@ -1,0 +1,181 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(renderLesson1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  geometry.cpp
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\geometry.cpp(4,69): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\geometry.cpp(4,77): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\geometry.cpp(4,85): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\geometry.cpp(6,69): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\geometry.cpp(6,77): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  main.cpp
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\main.cpp(55,31): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\main.cpp(55,18): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\main.cpp(76,41): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\main.cpp(76,28): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\main.cpp(85,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\main.cpp(165,84): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+  model.cpp
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\model.cpp(82,52): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\model.cpp(82,20): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\model.cpp(87,51): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\model.cpp(87,20): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\model.cpp(100,53): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\model.cpp(100,20): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  our_gl.cpp
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\our_gl.cpp(60,59): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\our_gl.cpp(60,35): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\our_gl.cpp(69,23): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\our_gl.cpp(70,27): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\our_gl.cpp(76,56): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\our_gl.cpp(76,51): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  tgaimage.cpp
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\tgaimage.cpp(364,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\202110\Render\8-1BaoLiAO\BaoLiAO\tgaimage.cpp(370,35): warning C4244: “=”: 从“long double”转换到“float”，可能丢失数据
+  正在生成代码...
+  BaoLiAO.vcxproj -> F:\202110\Render\8-1BaoLiAO\x64\Debug\BaoLiAO.exe
